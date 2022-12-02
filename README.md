@@ -29,7 +29,7 @@ This example demonstrates the creation and complettion of tickets as an end user
 
 
 <p>
-Karen is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
+Karen is creating a ticket, the help topic is labeled "Business Critical Outage" due to customer reports that they are unable to access mobile banking. 
 </p>
 <a href="https://imgur.com/Hgtsc2C"><img src="https://i.imgur.com/Hgtsc2C.jpg" title="source: imgur.com" /></a>
 </p>
@@ -39,14 +39,14 @@ Karen is creating a ticket, the help topic is "Business Critical Outage" because
 <br />
 
 <p>
-Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. 
+Agents will be able to see tickets in real time through the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assign proper SLAs. 
 </p>
 <br />
 <p>
 <a href="https://imgur.com/vYMRWiu"><img src="https://i.imgur.com/vYMRWiu.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-In this example we are setting the priority level of the ticket. The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans. 
+In this example the priorty of the ticket level is being established. The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In certain ticketing systems customers may be able to set their own SLA plans. 
 </p>
 <br />
 <p>
